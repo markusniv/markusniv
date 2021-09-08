@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Markus, welcome to my GitHub! I'm a 2nd IT engineer student at [Metropolia UAS](https://www.metropolia.fi/en), majoring in **mobile development**.
+
+Mobile development has quickly turned into a passion of mine, and you'll be mostly seeing various mobile projects here. I'm currently focusing on honing my skills mostly in **Kotlin**(:heart:) and Android development in general.
+
 <!--
 **markusniv/markusniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
