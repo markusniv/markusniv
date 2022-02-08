@@ -2,7 +2,7 @@
 
 I'm Markus, welcome to my GitHub! I'm a 2nd year IT engineer student at [Metropolia UAS](https://www.metropolia.fi/en), majoring in **mobile development**.
 
-I'm mostly passionate about mobile and web development, and you'll be mostly seeing various mobile and web projects here. I'm currently focusing on honing my skills in web and mobile development with JavaScript (React / React Native) as well as native Android development in Kotlin.
+I'm mostly passionate about mobile development, and you'll be mostly seeing projects regarding that in here. Currently focusing on honing my skills in both web and mobile development with JavaScript (React / React Native) as well as native Android development in Kotlin.
 
 <!--
 **markusniv/markusniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
